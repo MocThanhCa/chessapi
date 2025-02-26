@@ -1,0 +1,6 @@
+@chessdemo_HostAddress = http://localhost:5092
+
+GET {{chessdemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
